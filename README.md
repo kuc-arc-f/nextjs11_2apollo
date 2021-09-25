@@ -6,7 +6,7 @@
 
  date    : 2021/09/24
 
- update  :
+ update  : 2021/09/26
 
 ***
 ### Summary
@@ -25,7 +25,9 @@ Next.js 11 + apollo client sample
 yarn dev
 
 ***
-### Related:
+### Blog:
+
+https://zenn.dev/knaka0209/articles/36ce5834d2f73e
 
 ***
 
